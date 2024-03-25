@@ -1,2 +1,2 @@
 # loginNCD
-Pagina de Login do NCD feita com php, mysql. 
+Pagina de Login do NCD feita com HTML e CSS
